@@ -5994,7 +5994,7 @@
     {
         "id": "oz-calendar",
         "name": "OZ Calendar",
-        "description": "View your notes in Calendar using any YAML key with a date.",
+        "description": "View your notes in Calendar using any YAML key with a date and file name with Date",
         "author": "Ozan Tellioglu",
         "repo": "ozntel/oz-calendar"
     },
